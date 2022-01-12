@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    font-size: 1rem;
+    color: red;
+    padding: 0;
+}
+
+p {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0;
+}
+
+.compare {
+    display: flex;
+    flex-direction: row;
+}
+h2 { 
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 3rem;
+    font
+}
